@@ -13,3 +13,5 @@ testNonPrimeNumber: Kiểm tra các số không phải nguyên tố (4 và 1).
 testEdgeCases: Kiểm tra các trường hợp đặc biệt như số âm (-1) và số 0.
 Kết quả kiểm thử:
 ![image](https://github.com/user-attachments/assets/32a80549-a98c-43df-aee5-f1e494703be2)
+ChatGPT:
+![image](https://github.com/user-attachments/assets/7f933a67-a56e-4792-8480-3b5006bcd1f0)
