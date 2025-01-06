@@ -1,3 +1,5 @@
+JUnit Testing
+BIT220043-Nguyễn Văn Dưỡng
 Mô tả mã nguồn:
 Lớp PrimeChecker thực hiện chức năng kiểm tra xem một số nguyên có phải là số nguyên tố hay không.
 Phương thức isPrime(int number) nhận một số nguyên đầu vào và trả về true nếu số đó là số nguyên tố, ngược lại trả về false.
